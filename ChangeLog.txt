@@ -1,0 +1,5 @@
+# clikeepassx changelog
+
+## 2014-03-05
+
+* First public version.
